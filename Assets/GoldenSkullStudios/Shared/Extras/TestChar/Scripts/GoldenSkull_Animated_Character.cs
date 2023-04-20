@@ -19,7 +19,7 @@ public class GoldenSkull_Animated_Character : MonoBehaviour
     private SpriteRenderer characterSprite;
 
     [SerializeField]
-    private Transform gridBody;
+    private GameObject gridBody;
 
     // Start is called before the first frame update
     void Start()
